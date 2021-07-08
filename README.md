@@ -1,4 +1,9 @@
-### Hi there 👋
+### Well Hello There! I'm Mert 👋
+
+
+I'm an engineer, and I describe myself as a futuristic and curious person who wants to have a career in data science and machine learning. I have good analytical skills in problem solving and open to any challenges in these courses. I'm open to learning, technological advances researcher and curious about innovations.
+
+- 👨‍💻 Currently learning and improving my skills in R, Python and its libraries
 
 <!--
 **mertwithamouth/mertwithamouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
